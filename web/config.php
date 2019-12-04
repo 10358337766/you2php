@@ -1,10 +1,10 @@
 <?php
 $gl=(isset($_COOKIE['gl']) && $_COOKIE['gl'])?$_COOKIE['gl']:'US';
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyByudd09CeGwJDAUsKrsO_ThY3QkxiDufE');
+define('APIKEY', 'AIzaSyCUZkk01CZlqJ61DRUDDdaUZyC4UkQvGvo');
 define('GJ_CODE', $gl);
-define('SITE_NAME', 'Hello World!');
-define('TITLENAME', 'Hello World!');
-define('EN2DEKEY', 'AnQUP1XDEF87ewemh58-=--/4:CtzDSh4');
+define('SITE_NAME', 'mumu');
+define('TITLENAME', '烂春袋');
+define('EN2DEKEY', 'AnQUP1XDEF8:CtzDSh4');
 define('EMAIL', 'None@gmail.com');
 ?>
